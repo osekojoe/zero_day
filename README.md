@@ -1,0 +1,3 @@
+- This is a project to explore git's functionality
+- Also explores vigrant (and docker)
+- The project provides a base to git commit, push, pull, branch, merge
